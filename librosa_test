@@ -1,0 +1,3 @@
+filename = librosa.exampe('nutcracker')
+
+y, sr = librosa.load(filename)
